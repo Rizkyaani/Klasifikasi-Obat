@@ -1,6 +1,7 @@
 # Klasifikasi Jenis Obat
 
-Pendahuluan
+**Pendahuluan**
+
 Seiring dengan perkembangan industri farmasi, jumlah obat yang beredar semakin meningkat. Klasifikasi manual menjadi tidak efisien dan rawan kesalahan. Dalam dunia farmasi, klasifikasi obat merupakan langkah krusial dalam pengelolaan obat. Setiap obat memiliki karakteristik yang unik, seperti struktur kimia, efek farmakologis, dan indikasi. Mengklasifikasikan obat berdasarkan beragam karakteristik ini membutuhkan metode yang komprehensif. Kesalahan dalam klasifikasi obat dapat berdampak serius pada kesehatan pasien. Oleh karena itu, diperlukan metode klasifikasi yang memiliki tingkat akurasi yang tinggi. Salah satu metode yang menjanjikan dalam bidang ini adalah K-Nearest Neighbor (KNN). 
 KNN Sederhana dan Intuitif dimana KNN bekerja berdasarkan prinsip kedekatan data. Obat baru diklasifikasikan berdasarkan kemiripannya dengan obat-obat yang sudah ada dalam dataset. Konsep ini mudah dipahami dan diimplementasikan. Berikut alasan penggunaan Algoritma KNN:
 - KNN Fleksibel yaitu KNN dapat digunakan untuk berbagai jenis data, baik data numerik maupun kategorikal. Ini membuatnya sangat fleksibel dalam menangani berbagai karakteristik obat.
